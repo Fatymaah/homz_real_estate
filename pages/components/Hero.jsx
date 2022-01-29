@@ -53,7 +53,7 @@ const Hero = () => {
           </Box>
      
       <Gray>
-       <Image src={home} objectFit='contain' w={400} h={5666} />
+       <Image src={home} objectFit='contain' w={400} h={5666} alt='hero' />
       </Gray>
   </HeroSection>;
 };
