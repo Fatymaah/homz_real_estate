@@ -52,9 +52,7 @@ const Navbar = () => {
         <Logo>Homz</Logo>
     </Link> 
       </div>
-    <Link href='/' passHref>
-        <Slink>Home</Slink>
-    </Link>
+    
     <Link href='/search' passHref>
         <Slink>Search</Slink>
     </Link>
