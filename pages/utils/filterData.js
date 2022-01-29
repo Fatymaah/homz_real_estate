@@ -193,3 +193,5 @@ export const filterData = [
   
     return values;
   };
+
+  export default filterData;
